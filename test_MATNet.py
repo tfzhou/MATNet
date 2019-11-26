@@ -27,8 +27,8 @@ normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406],
                                  std=[0.229, 0.224, 0.225])
 image_transforms = transforms.Compose([to_tensor, normalize])
 
-model_name = 'MATNet'
-epoch = 17
+model_name = 'MATNet' # specify the model name
+epoch = 0 # specify the epoch number
 davis_result_dir = './output/davis16'
 
 encoder_dict, decoder_dict, enc_opt_dict, dec_opt_dict, load_args =\

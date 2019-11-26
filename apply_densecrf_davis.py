@@ -17,7 +17,7 @@ def sigmoid(x):
 
 image_dir = 'data/DAVIS2017/JPEGImages/480p'
 davis_result_dir = 'output/davis16'
-model_name = 'MATNet_epoch23'
+model_name = 'MATNet_epoch0' # specify the folder name of saliency results
 mask_dir = os.path.join(davis_result_dir, model_name)
 save_dir = join(davis_result_dir, model_name + '_crf')
 
