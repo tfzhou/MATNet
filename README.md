@@ -5,6 +5,7 @@
 This is a PyTorch implementation of our MATNet for unsupervised video object segmentation.
 
 **Motion-Attentive Transition for Zero-Shot Video Object Segmentation.**
+
 Tianfei Zhou, Shunzhou Wang, Yi Zhou, Yazhou Yao, Jianwu Li, Ling Shao, *AAAI 2020*, New York, USA.
 
 ## Prerequisites
@@ -20,6 +21,9 @@ pip install -r requirements.txt
 ```
 
 ## Train
+
+### Clone
+```git clone --recursive https://github.com/tfzhou/MATNet.git```
 
 ### Download Datasets
 In the paper, we use the following two public available dataset for training. Here are some steps to prepare the data:
