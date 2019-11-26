@@ -73,7 +73,7 @@ If you find MATNet useful for your research, please consider citing the followin
 ```
 @inproceedings{zhou2020motion,
   title={Motion-Attentive Transition for Zero-Shot Video Object Segmentation},
-  author={Tianfei Zhou, Shunzhou Wang, Yi Zhou, Yazhou Yao, Jianwu Li, Ling Shao},
+  author={Zhou, Tianfei and Wang, Shunzhou and Zhou, Yi and Yao, Yazhou and Li, Jianwu and Shao, Ling},
   booktitle={Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI)},
   year={2020},
   organization={AAAI}
