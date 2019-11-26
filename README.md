@@ -10,8 +10,7 @@ Tianfei Zhou, Shunzhou Wang, Yi Zhou, Yazhou Yao, Jianwu Li, Ling Shao, *AAAI 20
 
 ## Prerequisites
 
-The training and testing experiments is implemented using PyTorch 1.0.1. 
-All the experiments are conducted with a single GeForce RTX 2080Ti GPU with 11GB Memory.
+The training and testing experiments are conducted using PyTorch 1.0.1 with a single GeForce RTX 2080Ti GPU with 11GB Memory.
 - [PyTorch 1.0.1](https://github.com/pytorch/pytorch)
                    
 Other minor Python modules can be installed by running
