@@ -1,9 +1,7 @@
 clc
 
-save_dir = '/media/iiai/data/VOS/DAVIS2017/Annotations_edge/480p';
-
-
-src_dir = '/media/iiai/data/VOS/DAVIS2017/Annotations/480p';
+src_dir = 'data/DAVIS2017/Annotations/480p';
+save_dir = 'data/DAVIS2017/Annotations_edge/480p';
 
 seqs = dir(src_dir);
 seqs = {seqs.name};
