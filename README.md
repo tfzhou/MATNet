@@ -65,7 +65,7 @@ Once all data is prepared, please run ```python train_MATNet.py``` for training.
 ## Segmentation Results
 
 1. The segmentation results on DAVIS-16 and Youtube-objects can be downloaded from [Google Drive](https://drive.google.com/file/d/1d23TGBtrr11g8KFAStwewTyxLq2nX4PT/view?usp=sharing).
-2. The segmentation results on DAVIS-17 can be downloaded from [Google Drive](https://drive.google.com/open?id=1GTqjWc7tktw92tBNKln2eFmb9WzdcVrz). 
+2. The segmentation results on DAVIS-17 can be downloaded from [Google Drive](https://drive.google.com/open?id=1GTqjWc7tktw92tBNKln2eFmb9WzdcVrz). We achieved __58.6__ in terms of _Mean J&F_.
 
 ## Pretrained Models
 
