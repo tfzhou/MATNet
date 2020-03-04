@@ -3,6 +3,7 @@
 > UPDATES:<br>
 > - [2020/03/04] Update results for DAVIS-17 validation set!
 > - [2019/11/17] Codes released!
+
 This is a PyTorch implementation of our MATNet for unsupervised video object segmentation.
 
 **Motion-Attentive Transition for Zero-Shot Video Object Segmentation.** [Paper](http://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouT.2131.pdf)
