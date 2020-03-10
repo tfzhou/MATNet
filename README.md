@@ -6,7 +6,7 @@
 
 This is a PyTorch implementation of our MATNet for unsupervised video object segmentation.
 
-**Motion-Attentive Transition for Zero-Shot Video Object Segmentation.** [Paper](http://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouT.2131.pdf)
+**Motion-Attentive Transition for Zero-Shot Video Object Segmentation.** [Paper](https://arxiv.org/abs/2003.04253)
 
 Tianfei Zhou, Shunzhou Wang, Yi Zhou, Yazhou Yao, Jianwu Li, Ling Shao, *AAAI 2020*, New York, USA.
 
