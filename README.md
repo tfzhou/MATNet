@@ -30,7 +30,7 @@ pip install -r requirements.txt
 In the paper, we use the following two public available dataset for training. Here are some steps to prepare the data:
 - [DAVIS-17](https://davischallenge.org/davis2017/code.html): we use all the data in the train subset of DAVIS-16. 
     However, please download DAVIS-17 to fit the code. It will automatically choose the subset of DAVIS-16 for training. 
-- [YoutubeVOS-2018](https://youtube-vos.org/dataset/): we sample the training data every 10 frames in YoutubeVOS-2018.
+- [YoutubeVOS-2018](https://youtube-vos.org/dataset/): we sample the training data every 10 frames in YoutubeVOS-2018. We use the dataset version with 6fps rather than 30fps.
 - Create soft links:
 
     ```cd data; ln -s your/davis17/path DAVIS2017; ln -s your/youtubevos/path YouTubeVOS_2018;```
