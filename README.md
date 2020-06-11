@@ -47,7 +47,7 @@ The codes are borrowed from https://github.com/sniklaus/pytorch-hed.
 
 ### Prepare Optical Flow
 I have provided the pytorch codes to generate optical flow results for the two datasets (see ```3rdparty/pytorch-pwc```).
-Please run ```run_davis2017.py``` and ```run_youtubevos.py```. 
+Please run ```run_davis_flow.py``` and ```run_youtubevos_flow.py```. 
 
 The codes are borrowed from https://github.com/sniklaus/pytorch-pwc. 
 Please follow the [setup](https://github.com/sniklaus/pytorch-pwc#setup) section to install ```cupy```. 
