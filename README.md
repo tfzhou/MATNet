@@ -1,6 +1,7 @@
 ## Motion-Attentive Transition for Zero-Shot Video Object Segmentation
 
 > UPDATES:<br>
+> - [2020/06/15] Update results for DAVIS-17 test-dev set!
 > - [2020/03/04] Update results for DAVIS-17 validation set!
 > - [2019/11/17] Codes released!
 
