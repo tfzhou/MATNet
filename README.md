@@ -66,7 +66,7 @@ Once all data is prepared, please run ```python train_MATNet.py``` for training.
 
 1. The segmentation results on DAVIS-16 and Youtube-objects can be downloaded from [Google Drive](https://drive.google.com/file/d/1d23TGBtrr11g8KFAStwewTyxLq2nX4PT/view?usp=sharing).
 2. The segmentation results on DAVIS-17 val can be downloaded from [Google Drive](https://drive.google.com/open?id=1GTqjWc7tktw92tBNKln2eFmb9WzdcVrz). We achieved __58.6__ in terms of _Mean J&F_.
-3. The segmentation results on DAVIS-18 test-dev can be downloaded from [Google Drive](https://drive.google.com/file/d/1Ood-rr0d4YRFSrGGh6yVpYvOvE_h0tVK/view?usp=sharing). We achieved __59.8__ in terms of _Mean J&F_. The method also achieved the second place in DAVIS-2020 unsupervised object segmentation challenge. Please refer to [paper](paper/davis20-iiai-v2.pdf) for more details of our challenge solution.
+3. The segmentation results on DAVIS-17 test-dev can be downloaded from [Google Drive](https://drive.google.com/file/d/1Ood-rr0d4YRFSrGGh6yVpYvOvE_h0tVK/view?usp=sharing). We achieved __59.8__ in terms of _Mean J&F_. The method also achieved the second place in DAVIS-20 unsupervised object segmentation challenge. Please refer to [paper](paper/davis20-iiai-v1.pdf) for more details of our challenge solution.
 
 ## Pretrained Models
 
