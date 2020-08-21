@@ -83,13 +83,15 @@ If you find MATNet useful for your research, please consider citing the followin
   author={Zhou, Tianfei and Wang, Shunzhou and Zhou, Yi and Yao, Yazhou and Li, Jianwu and Shao, Ling},
   booktitle={Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI)},
   year={2020},
-  organization={AAAI}
+  pages={13066--13073}
 }
 
 @article{zhou2020matnet,
   title={MATNet: Motion-Attentive Transition Network for Zero-Shot Video Object Segmentation},
   author={Zhou, Tianfei and Li, Jianwu and Wang, Shunzhou and Tao, Ran and Shen, Jianbing},
   journal={IEEE Transactions on Image Processing},
+  volume={29},
+  pages={8326-8338},
   year={2020}
 }
 ```
