@@ -2,6 +2,8 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/motion-attentive-transition-for-zero-shot/unsupervised-video-object-segmentation-on)](https://paperswithcode.com/sota/unsupervised-video-object-segmentation-on?p=motion-attentive-transition-for-zero-shot)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/matnet-motion-attentive-transition-network/unsupervised-video-object-segmentation-on-4)](https://paperswithcode.com/sota/unsupervised-video-object-segmentation-on-4?p=matnet-motion-attentive-transition-network)
+
 > UPDATES:<br>
 > - [2020/06/15] Update results for DAVIS-17 test-dev set!
 > - [2020/03/04] Update results for DAVIS-17 validation set!
