@@ -78,7 +78,7 @@ Once all data is prepared, please run ```python train_MATNet.py``` for training.
 The pre-trained model can be downloaded from [Google Drive](https://drive.google.com/file/d/1XlenYXgQjoThgRUbffCUEADS6kE4lvV_/view?usp=sharing).
 
 ## Citation
-If you find MATNet useful for your research, please consider citing the following paper:
+If you find MATNet useful for your research, please consider citing the following papers:
 ```
 @inproceedings{zhou2020motion,
   title={Motion-Attentive Transition for Zero-Shot Video Object Segmentation},
