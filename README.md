@@ -95,11 +95,11 @@ If you find MATNet useful for your research, please consider citing the followin
   year={2020}
 }
 
-@article{DAVIS2020-Unsupervised-2nd,
-  author = {T. Zhou, W. Wang, Y. Yao, J. Shen},
-  title = {Target-Aware Adaptive Tracking for Unsupervised Video Object Segmentation},
-  journal = {The 2020 DAVIS Challenge on Video Object Segmentation - CVPR Workshops},
-  year = {2020}
+@inproceedings{zhou2021unsupervised,
+  author = {Zhou, Tianfei and Li, Jianwu and Li, Xueyi and Shao, Ling},
+  title = {Unsupervised Object Discovery and Association for Video Object Segmentation},
+  booktitle = CVPR,
+  year = {2021}
 }
 ```
 
