@@ -98,8 +98,8 @@ If you find MATNet useful for your research, please consider citing the followin
 
 @inproceedings{zhou2021unsupervised,
   author = {Zhou, Tianfei and Li, Jianwu and Li, Xueyi and Shao, Ling},
-  title = {Unsupervised Object Discovery and Association for Video Object Segmentation},
-  booktitle = CVPR,
+  title = {Target-Aware Object Discovery and Association for Unsupervised Video Multi-Object Segmentation},
+  booktitle = {CVPR},
   year = {2021}
 }
 ```
