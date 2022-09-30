@@ -8,7 +8,7 @@ torch==1.0.1.post2
 pydensecrf==1.0rc2
 tqdm==4.31.1
 scikit_image==0.15.0
-joblib==0.13.2
+joblib==1.2.0
 numpy==1.16.2
 matplotlib==3.0.3
 Pillow==8.1.1
